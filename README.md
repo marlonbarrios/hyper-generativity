@@ -1,6 +1,6 @@
 # Hyper-Generativity? Cognitively Expanded Systems, Rules, and Automation in Times of New LLMs Architectures
 Created by Marlon Barrios Solano
-## Total Duration: 45 minutes after the reading of the sylabus and 8 minutes break in 1st session of class of the Algorithmic Creativity in times of Gneerative AI Course.
+## Total Duration: 45 minutes after the reading of the sylabus and 8 minutes break in 1st session of class of the Algorithmic Creativity in times of Generative AI Course.
 
 ### 1. SwingWing Effect (10 minutes)
 - **Video Watching**: Participants watch the SwingWing video to set the stage for discussing systems and rules in a dynamic context. [Watch the video here](https://www.youtube.com/watch?v=8kcUjuXBFA8).
@@ -34,6 +34,10 @@ Created by Marlon Barrios Solano
   - **Situated Actions**
  
   - **What is creativity anyway?**
+
+
+  - **[LIVE APP with Wolfram Rules for 1 Dimesional Celular Automata programmed in P5.js](https://marlonbarrios.github.io/wolframatic/)**
+  - **[CODE](https://github.com/marlonbarrios/wolframatic/tree/mondrian?tab=readme-ov-file#wolframatic---cellular-automaton-visualizer)**
 
 ### 3. Vera-AI, LLMs, and Hybrid Co-cretion (10 minutes)
 - **Introduction to Vera-AI**: Explain how Vera-AI functions as a conversational AI assistant for the course, showcasing its integration with LLMs.
