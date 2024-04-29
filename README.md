@@ -6,18 +6,18 @@ Created by Marlon Barrios Solano
 <img src="https://github.com/marlonbarrios/vera-ai2/assets/90220317/9326e68c-cb1b-46ed-820a-4d0a0fe0f30f" width="600" >
 
 ### 1. SwingWing Effect (10 minutes)
-- **Video Watching**: Participants watch the SwingWing video to set the stage for discussing systems and rules in a dynamic context. [Watch the video here](https://www.youtube.com/watch?v=8kcUjuXBFA8).
-- **Initial Discussion**: Briefly discuss the video, focusing on the visible principles of motion and force, which serve as a metaphor for the dynamics within systems and computational creativity.
+- **Video Watching**: Watch the SwingWing video | systems and rules in a dynamic context. [Watch the video here](https://www.youtube.com/watch?v=8kcUjuXBFA8).
+- **Initial Discussion**: Briefly discuss the video, focusing on the visible couplings with mebodiment which serve as a metaphor for the dynamics within systems and computational creativity.
 
 ### 2. Aesthetics of Change (15 minutes)
 - **Exercise Rules**: Explain the rules of the Change Exercise, highlighting the various options participants have:
   
-- States:
+- Hre are the rules for the States:
   - Camera on or off.
   - If camera is on: Choose to be inside or outside the frame.
   - If inside the frame: Opt for stillness or movement.
   - If moving: Choose to either copy someone or move independently.
-- **Conceptual Definitions**: Dive into the related concepts with definitions and practical examples:
+- **Conceptual Definitions**: many concepts!!? many fiends of knwowledge? Time based? 
   - **Systems**: Sets of interacting components following a set of rules.
   - **Rules**: Explicit guidelines that govern behaviors within systems.
   - **Procedures**: Steps in a sequence to achieve a result.
@@ -38,15 +38,21 @@ Created by Marlon Barrios Solano
   
  
   - **What is creativity anyway?** We will be coming back to this question...over and over
+ 
+    
+![wolfram](https://github.com/marlonbarrios/hyper-generativity/assets/90220317/dd655dd3-e83f-4282-863e-8aad31fdff60)
 
 
   - **[LIVE APP with Wolfram Rules for 1 Dimesional Celular Automata programmed in P5.js](https://marlonbarrios.github.io/wolframatic/)**
   - **[CODE](https://github.com/marlonbarrios/wolframatic/tree/mondrian?tab=readme-ov-file#wolframatic---cellular-automaton-visualizer)**
 
 ### 3. Vera-AI, LLMs, and Hybrid Co-cretion (10 minutes)
-- **Introduction to Vera-AI**: Explain how Vera-AI functions as a conversational AI assistant for the course, showcasing its integration with LLMs.
+- **Introduction to Vera-AI**: Conversational AI assistant for the course, showcasing its integration with LLMs. 
   [Vera-AI LIVE](https://vera-ai.vercel.app/)
-- **Role of LLMs**: Discuss the impact of Large Language Models (LLMs) in expanding the capabilities of systems like Vera-AI, focusing on how they enable more sophisticated dynamics: resursion+metalevels+agentic?
+- **Role of LLMs**: Discuss the impact of Large Language Models (LLMs) in expanding the capabilities of systems like Vera-AI, focusing on how they enable more sophisticated dynamics: resursion+metalevels+agentic+collectivities?
+  
+  ![Screenshot 2024-04-29 at 6 15 57 PM](https://github.com/marlonbarrios/hyper-generativity/assets/90220317/a83f81c7-b093-4c74-bdc1-91753b6e47b8)
+
 
 ### 4. Repurposing Vera-AI: Reengineering Vera-AI and Guidelines for Readiness for Next Session (10 minutes)
 [Get code and instructions here](https://github.com/marlonbarrios/vera-ai2?tab=readme-ov-file#vera-ai-an-ai-enhanced-chat-application-for-llms-on-computational-creativity-and-llms)
