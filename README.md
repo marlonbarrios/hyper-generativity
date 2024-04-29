@@ -26,14 +26,15 @@ Created by Marlon Barrios Solano
   - **Organization**: The way in which something is organized or arranged.
   - **Open-ended**: Situations or problems that allow for multiple solutions.
   - **Automaton**: A self-operating machine or a robot designed to follow a predetermined sequence of operations.
+  - **Situated Actions**
   - **Choreography**
   - **Script**
   - **Score**
   - **Learning**
   - **Predictions**
-  - **Situated Actions**
+  
  
-  - **What is creativity anyway?**
+  - **What is creativity anyway?** We will be coming back to this question...over and over
 
 
   - **[LIVE APP with Wolfram Rules for 1 Dimesional Celular Automata programmed in P5.js](https://marlonbarrios.github.io/wolframatic/)**
