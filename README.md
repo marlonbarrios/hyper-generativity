@@ -8,6 +8,8 @@ Created by Marlon Barrios Solano
 
 ### 2. Aesthetics of Change (15 minutes)
 - **Exercise Rules**: Explain the rules of the Change Exercise, highlighting the various options participants have:
+  
+- States:
   - Camera on or off.
   - If camera is on: Choose to be inside or outside the frame.
   - If inside the frame: Opt for stillness or movement.
