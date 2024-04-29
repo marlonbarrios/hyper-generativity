@@ -64,8 +64,11 @@ Created by Marlon Barrios Solano
 ### Conclusion (5 minutes)
 - **Recap**: Summarize the key points from the session, highlighting the interconnectedness of generative art, computational creativity, and the role of systems and automation.
 - **Q&A**: Open the floor for any last-minute questions and provide clarifications as needed.
+ 
+## BONUS: [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g&t=2992s)
 
-  ## BONUS: [Video: How Meta Trained LLAMA 3](https://www.youtube.com/watch?v=r3DC_gjFCSA)
+## BONUS: [Video: How Meta Trained LLAMA 3](https://www.youtube.com/watch?v=r3DC_gjFCSA)
+ 
 
   
 ++++++
