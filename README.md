@@ -1,6 +1,6 @@
 # Hyper-Generativity? Cognitively Expanded Systems, Rules, and Automation in Times of New LLMs Architectures
 Created by Marlon Barrios Solano
-## Total Duration: 45 minutes after the reading of the sylabus (1st session of class of the Algorithmic Creativity in times of Gneerative AI Course)
+## Total Duration: 45 minutes after the reading of the sylabus and 8 minutes break in 1st session of class of the Algorithmic Creativity in times of Gneerative AI Course.
 
 ### 1. SwingWing Effect (10 minutes)
 - **Video Watching**: Participants watch the SwingWing video to set the stage for discussing systems and rules in a dynamic context. [Watch the video here](https://www.youtube.com/watch?v=8kcUjuXBFA8).
