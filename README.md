@@ -1,13 +1,13 @@
 # Hyper-Generativity? Cognitively Expanded Systems, Rules, and Automation in Times of New LLMs Architectures
 Created by Marlon Barrios Solano
 ## Algorithmic Creativity in times of Generative AI Course
-## Part 2 of Session 1: 45 minutes | the reading of the sylabus and 10 minutes break in 1st session of class of the Algorithmic Creativity in times of Generative AI Course.
+## Part 2 of Session 1: 45 minutes | After the reading of the sylabus and 10 minutes break in 1st session of class of the Algorithmic Creativity in times of Generative AI Course.
 
 <img src="https://github.com/marlonbarrios/vera-ai2/assets/90220317/9326e68c-cb1b-46ed-820a-4d0a0fe0f30f" width="600" >
 
 ### 1. SwingWing Effect (10 minutes) | Interfacing
 - **Video Watching**: Watch the SwingWing video | systems and rules in a dynamic context. [Watch the video here](https://www.youtube.com/watch?v=8kcUjuXBFA8).
-- **Initial Discussion**: Briefly discuss the video, focusing on the visible couplings with mebodiment which serve as a metaphor for the dynamics within systems and computational creativity.
+- **Initial Discussion**: Briefly discuss the video, focusing on the visible couplings with embodiment which serve as a metaphor for the dynamics within interfaces, systems and computational creativity.
 
 ### 2. Aesthetics of Change (15 minutes) | Embedded Systemicaly
 - **Exercise Rules**: Explain the rules of the Change Exercise, highlighting the various options participants have:
