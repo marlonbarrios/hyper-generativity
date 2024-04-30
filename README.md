@@ -5,11 +5,11 @@ Created by Marlon Barrios Solano
 
 <img src="https://github.com/marlonbarrios/vera-ai2/assets/90220317/9326e68c-cb1b-46ed-820a-4d0a0fe0f30f" width="600" >
 
-### 1. SwingWing Effect (10 minutes)
+### 1. SwingWing Effect (10 minutes) | Interfacing
 - **Video Watching**: Watch the SwingWing video | systems and rules in a dynamic context. [Watch the video here](https://www.youtube.com/watch?v=8kcUjuXBFA8).
 - **Initial Discussion**: Briefly discuss the video, focusing on the visible couplings with mebodiment which serve as a metaphor for the dynamics within systems and computational creativity.
 
-### 2. Aesthetics of Change (15 minutes)
+### 2. Aesthetics of Change (15 minutes) | Embedded Systemicaly
 - **Exercise Rules**: Explain the rules of the Change Exercise, highlighting the various options participants have:
   
 - Hre are the rules for the States:
@@ -46,7 +46,7 @@ Created by Marlon Barrios Solano
   - **[LIVE APP with Wolfram Rules for 1 Dimesional Celular Automata programmed in P5.js](https://marlonbarrios.github.io/wolframatic/)**
   - **[CODE](https://github.com/marlonbarrios/wolframatic/tree/mondrian?tab=readme-ov-file#wolframatic---cellular-automaton-visualizer)**
 
-### 3. Vera-AI, LLMs, and Hybrid Co-creation/meta-creation (10 minutes)
+### 3. Vera-AI, LLMs, and Hybrid Co-creation/meta-creation (10 minutes) | Probability Spaces, Semantic Landacapes and Meta-levels
 - **Introduction to Vera-AI**: Conversational AI assistant for the course, showcasing its integration with LLMs. 
   [Vera-AI LIVE](https://vera-ai.vercel.app/)
 - **Role of LLMs**: Discuss the impact of Large Language Models (LLMs) in expanding the capabilities of systems like Vera-AI, focusing on how they enable more sophisticated dynamics: resursion+metalevels+agentic+collectivities?
@@ -54,7 +54,7 @@ Created by Marlon Barrios Solano
   ![Screenshot 2024-04-29 at 6 15 57 PM](https://github.com/marlonbarrios/hyper-generativity/assets/90220317/a83f81c7-b093-4c74-bdc1-91753b6e47b8)
 
 
-### 4. Repurposing Vera-AI: Reengineering Vera-AI and Guidelines for Readiness for Next Session (10 minutes)
+### 4. Repurposing Vera-AI: Reengineering Vera-AI and Guidelines for Readiness for Next Session (10 minutes) | Languaging,  programming and engineering 
 [Get code and instructions here](https://github.com/marlonbarrios/vera-ai2?tab=readme-ov-file#vera-ai-an-ai-enhanced-chat-application-for-llms-on-computational-creativity-and-llms)
 
 - **Reengineering Vera-AI**: Explore potential ways to modify and enhance Vera-AI to better suit the evolving needs of the course and participants.
