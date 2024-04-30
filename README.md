@@ -1,7 +1,7 @@
 # Hyper-Generativity? Cognitively Expanded Systems, Rules, and Automation in Times of New LLMs Architectures
 Created by Marlon Barrios Solano
 ## Algorithmic Creativity in times of Generative AI Course
-## Part 2 of Session 1: 45 minutes | After the reading of the sylabus and 10 minutes break in 1st session of class of the Algorithmic Creativity in times of Generative AI Course.
+## Part 2 of Session 1: 45 minutes | After the reading of the syllabus and 10 minutes break in 1st session of class of the Algorithmic Creativity in times of Generative AI Course.
 
 <img src="https://github.com/marlonbarrios/vera-ai2/assets/90220317/9326e68c-cb1b-46ed-820a-4d0a0fe0f30f" width="600" >
 
