@@ -17,12 +17,12 @@ Created by Marlon Barrios Solano
 ### 2. Aesthetics of Change (15 minutes) | Embedded Systemicaly
 - **Exercise Rules**: Explain the rules of the Change Exercise, highlighting the various options participants have:
   
-- Hre are the rules for the States:
+- Here are the rules for the states:
   - Camera on or off.
   - If camera is on: Choose to be inside or outside the frame.
   - If inside the frame: Opt for stillness or movement.
   - If moving: Choose to either copy someone or move independently.
-- **Conceptual Definitions**: many concepts!!? many fiends of knwowledge? Time based? 
+- **Conceptual Definitions**: many concepts!!? many fields of knwowledge?
   - **Systems**: Sets of interacting components following a set of rules.
   - **Rules**: Explicit guidelines that govern behaviors within systems.
   - **Procedures**: Steps in a sequence to achieve a result.
@@ -58,12 +58,11 @@ Created by Marlon Barrios Solano
   
   ![Screenshot 2024-04-29 at 6 15 57 PM](https://github.com/marlonbarrios/hyper-generativity/assets/90220317/a83f81c7-b093-4c74-bdc1-91753b6e47b8)
 
-
 ### 4. Repurposing Vera-AI: Reengineering Vera-AI and Guidelines for Readiness for Next Session (10 minutes) | Languaging,  programming and engineering 
 [Get code and instructions here](https://github.com/marlonbarrios/vera-ai2?tab=readme-ov-file#vera-ai-an-ai-enhanced-chat-application-for-llms-on-computational-creativity-and-llms)
 
 - **Reengineering Vera-AI**: Explore potential ways to modify and enhance Vera-AI to better suit the evolving needs of the course and participants.
-- **Preparation for Next Session**: Encourage participants to think about a system prompt that reflects their interests, group affiliations, family dynamics, or speculative futures. This prompt will help tailor the next session's focus and ensure Vera-AI's alignment with participant goals.
+- **Preparation for Next Session**: Encourage participants to think about a system prompt that reflects their interests, group affiliations, family dynamics, or speculative futures. 
 - **Assignments**: Assign tasks for participants to come prepared with their personalized system prompts for Vera-AI, fostering a deeper engagement with the tool and the concepts discussed.
 
 ### Conclusion (5 minutes)
